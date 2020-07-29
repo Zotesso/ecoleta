@@ -4,8 +4,8 @@ Projeto construido durante a Next Level Week da Rocketseat, NodeJs no back-end, 
 <p align="center" float:"left">
 
   <img  width="500" height="360" src="https://media.giphy.com/media/gIkKrfUBWHqy4gvo8A/giphy.gif">  
-  <img  width="200" src="https://i.imgur.com/PBDZlAz.jpg">  
-  <img  width="200" src="https://i.imgur.com/qgS7adw.jpg">  
+  <img  width="150" height="360" src="https://i.imgur.com/PBDZlAz.jpg">  
+  <img  width="150" height="360" src="https://i.imgur.com/qgS7adw.jpg">  
   
 </p>
 
